@@ -1,2 +1,13 @@
-A beginner-friendly Python program that evaluates simple mathematical expressions entered by you. This calculator helps us in learning loops, conditions, exception handling, and basic Python.
-It handles division by zero errors and invalid outputs, by using a simple loop to allow continuous calculations. It lets you exit anytime using "exit". 
+# Mini Calculator Project
+
+This is a simple command-line calculator made in Python. It supports addition, subtraction, multiplication, and division.
+
+## How to Run
+1. Install Python
+2. Open terminal in VS Code
+3. Run: python calculator.py
+
+## Features
+- Basic arithmetic operations
+- User input
+- Shows result in the terminal
